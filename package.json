@@ -1,3 +1,6 @@
 {
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@jns42/jns42-generator": "^0.2.5"
+  }
 }
